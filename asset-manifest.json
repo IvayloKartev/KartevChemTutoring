@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kartevchemtutoring/static/css/main.4f27b1c9.css",
-    "main.js": "/kartevchemtutoring/static/js/main.59865279.js",
-    "static/js/453.b05d8aa5.chunk.js": "/kartevchemtutoring/static/js/453.b05d8aa5.chunk.js",
+    "main.js": "/kartevchemtutoring/static/js/main.eac69ca0.js",
+    "static/js/453.9c9b5a31.chunk.js": "/kartevchemtutoring/static/js/453.9c9b5a31.chunk.js",
     "static/media/bg-light.png": "/kartevchemtutoring/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/bg-dark.png": "/kartevchemtutoring/static/media/bg-dark.f420c6b8458af72de935.png",
     "static/media/bnt.png": "/kartevchemtutoring/static/media/bnt.47b1f4edc823639a5c73.png",
@@ -12,11 +12,11 @@
     "static/media/portret-circle.png": "/kartevchemtutoring/static/media/portret-circle.23493582d09b2e71918c.png",
     "index.html": "/kartevchemtutoring/index.html",
     "main.4f27b1c9.css.map": "/kartevchemtutoring/static/css/main.4f27b1c9.css.map",
-    "main.59865279.js.map": "/kartevchemtutoring/static/js/main.59865279.js.map",
-    "453.b05d8aa5.chunk.js.map": "/kartevchemtutoring/static/js/453.b05d8aa5.chunk.js.map"
+    "main.eac69ca0.js.map": "/kartevchemtutoring/static/js/main.eac69ca0.js.map",
+    "453.9c9b5a31.chunk.js.map": "/kartevchemtutoring/static/js/453.9c9b5a31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f27b1c9.css",
-    "static/js/main.59865279.js"
+    "static/js/main.eac69ca0.js"
   ]
 }
