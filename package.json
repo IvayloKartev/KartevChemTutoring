@@ -2,7 +2,7 @@
   "name": "KartevChemTutoring",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://ivaylokartev.github.io/KartevChemTutoring",
+  "homepage": "https://kartev.eu.org",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@emotion/react": "^11.11.4",
