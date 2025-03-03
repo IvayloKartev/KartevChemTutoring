@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/KartevChemTutoring/static/css/main.07ce1e3e.css",
-    "main.js": "/KartevChemTutoring/static/js/main.73578ba7.js",
-    "static/js/453.9c9b5a31.chunk.js": "/KartevChemTutoring/static/js/453.9c9b5a31.chunk.js",
+    "main.js": "/KartevChemTutoring/static/js/main.d0730a24.js",
+    "static/js/453.9a86979e.chunk.js": "/KartevChemTutoring/static/js/453.9a86979e.chunk.js",
     "static/media/bg-light.png": "/KartevChemTutoring/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/bg-dark.png": "/KartevChemTutoring/static/media/bg-dark.f420c6b8458af72de935.png",
     "static/media/bnt.png": "/KartevChemTutoring/static/media/bnt.47b1f4edc823639a5c73.png",
@@ -12,11 +12,11 @@
     "static/media/portret-circle.png": "/KartevChemTutoring/static/media/portret-circle.23493582d09b2e71918c.png",
     "index.html": "/KartevChemTutoring/index.html",
     "main.07ce1e3e.css.map": "/KartevChemTutoring/static/css/main.07ce1e3e.css.map",
-    "main.73578ba7.js.map": "/KartevChemTutoring/static/js/main.73578ba7.js.map",
-    "453.9c9b5a31.chunk.js.map": "/KartevChemTutoring/static/js/453.9c9b5a31.chunk.js.map"
+    "main.d0730a24.js.map": "/KartevChemTutoring/static/js/main.d0730a24.js.map",
+    "453.9a86979e.chunk.js.map": "/KartevChemTutoring/static/js/453.9a86979e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07ce1e3e.css",
-    "static/js/main.73578ba7.js"
+    "static/js/main.d0730a24.js"
   ]
 }
