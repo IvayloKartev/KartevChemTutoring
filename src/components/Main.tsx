@@ -3,8 +3,10 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import '../assets/styles/Main.scss';
 import avatar from '../assets/images/portret-circle.png';
-import RedditIcon from '@mui/icons-material/Reddit';
-import DiscordIcon from '@mui/icons-material/Discord';
+import Reddit from "@mui/icons-material/Reddit";
+import { faDiscord } from "@fortawesome/free-brands-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
 function Main() {
 
   return (
@@ -15,15 +17,15 @@ function Main() {
         </div>
         <div className="content">
           <div className="social_icons">
-            <a href="https://www.reddit.com/user/IvayloKartev/" target="_blank" rel="noreferrer"><RedditIcon/></a>
-            <a href="https://www.discord.com" target="_blank" rel="noreferrer"><DiscordIcon/></a>
+            <a href="https://www.reddit.com/user/IvayloKartev/" target="_blank" rel="noreferrer"><Reddit/></a>
+            <a href="https://www.discord.com" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faDiscord}/></a>
           </div>
           <h1>Ivaylo Kartev</h1>
           <p>Chemistry Tutor</p>
 
           <div className="mobile_social_icons">
-            <a href="https://www.reddit.com/user/IvayloKartev/" target="_blank" rel="noreferrer"><RedditIcon/></a>
-            <a href="https://www.discord.com" target="_blank" rel="noreferrer"><DiscordIcon/></a>
+            <a href="https://www.reddit.com/user/IvayloKartev/" target="_blank" rel="noreferrer"><Reddit/></a>
+            <a href="https://www.discord.com" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faDiscord}/></a>
           </div>
         </div>
       </div>
